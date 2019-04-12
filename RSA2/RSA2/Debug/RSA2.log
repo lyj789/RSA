@@ -1,0 +1,6 @@
+﻿  RSA2.cpp
+e:\大三上\密码学 古力\wo\rsa 刘一静\rsa2\rsa2\rsa2.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+e:\大三上\密码学 古力\wo\rsa 刘一静\rsa2\rsa2\rsa2.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+e:\大三上\密码学 古力\wo\rsa 刘一静\rsa2\rsa2\rsa2.cpp(72): warning C4018: “<”: 有符号/无符号不匹配
+  RSA2.vcxproj -> E:\大三上\密码学 古力\wo\RSA 刘一静\RSA2\Debug\RSA2.exe
+  RSA2.vcxproj -> E:\大三上\密码学 古力\wo\RSA 刘一静\RSA2\Debug\RSA2.pdb (Partial PDB)
